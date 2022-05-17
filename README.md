@@ -15,9 +15,13 @@ ALGORITHMS USED:
 3) MIN-MAX ALGORITHM : Min-max is a kind of backtracking algorithm that is used in decision making and game theory to find the optimal move for a player, assuming that your opponent also plays optimally
 
 PLAYING STEPS (HUMAN):
+
+
 ![image](https://user-images.githubusercontent.com/53509075/168730418-bfb71a49-197f-406e-bce4-6f4c3dd03ee0.png)
 
 PLAYING STEPS (AI):
+
+
 ![image](https://user-images.githubusercontent.com/53509075/168730458-8b4fc8e8-3bc9-4441-802a-933c494b251b.png)
 
 SPECIAL MOVES:
